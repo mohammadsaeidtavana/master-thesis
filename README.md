@@ -3,7 +3,8 @@
                                           Review
                  Submited for the  Academic Degree of Master of Engineering
                                     Mohammad saeid tavana
-  “IoT in medical informatics and Telemedicine with approach to design patient alarm and EHRs “
+    “IoT in medical informatics and Telemedicine with approach to design patient alarm and EHRs “
+
   
  
 The purpose  of the  project is to design software which holds all information about patients 
